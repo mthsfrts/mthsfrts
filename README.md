@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
+I'm Matheus or Matthews(if you want), a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
 Master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your man. 
 Currently working on a Master's in Software Engineering, because you can never have too many degrees, right?
 
@@ -19,4 +19,21 @@ I'm your man (or woman, no judgement here).
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mthsfrts&theme=blueberry_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compac&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Skills Stack
+<div style="display: inline_block"><br>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
+
+## Social
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthsfrts/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mthsfrts/)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mthsfrts#5274)
