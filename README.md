@@ -8,6 +8,12 @@ Currently working on a Master's in Software Engineering, because you can never h
 I've got mad skills when it comes to managing Linux and Windows servers, setting up SD-WAN networks, and keeping cybercriminals at bay with my firewall rules and traffic analysis. 
 And let's just say, I was the IT manager at a secret government agency (shh!) where I helped lead teams to victory and delivered results like a boss.
 
+Oh, and I'm also a Product Manager and Cloud Engineer. Basically, if it's tech-related and it needs to be done, I can do it. 
+AWS instances? No problem. Cloud computing technologies? I got this.
+
+So, if you're looking for someone who can make your tech dreams a reality, look no further. 
+I'm your man (or woman, no judgement here).
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsfrts&count_private=true&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
