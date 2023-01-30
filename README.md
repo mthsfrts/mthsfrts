@@ -15,10 +15,12 @@ So, if you're looking for someone who can make your tech dreams a reality, look 
 I'm your man (or woman, no judgement here).
 
 ## Here are some of my Github Stats.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsfrts&count_private=true&show_icons=true&theme=github_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mthsfrts&theme=blueberry_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compac&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills Stack
 <div style="display: inline_block"><br>
@@ -36,6 +38,7 @@ I'm your man (or woman, no judgement here).
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
 
 ## Social
 
