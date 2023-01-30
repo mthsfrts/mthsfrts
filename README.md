@@ -14,6 +14,9 @@ AWS instances? No problem. Cloud computing technologies? I got this.
 So, if you're looking for someone who can make your tech dreams a reality, look no further. 
 I'm your man (or woman, no judgement here).
 
-
+## Here are some of my Github Stats.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsfrts&count_private=true&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+![Strike Stats](https://github-readme-streak-stats.herokuapp.com/?user=mthsfrts&theme=tokyonight)
+
+##
