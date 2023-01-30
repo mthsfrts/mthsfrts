@@ -15,8 +15,7 @@ So, if you're looking for someone who can make your tech dreams a reality, look 
 I'm your man (or woman, no judgement here).
 
 ## Here are some of my Github Stats.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsfrts&count_private=true&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mthsfrts&theme=blueberry_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthsfrts&count_private=true&show_icons=true&theme=github_dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mthsfrts&theme=blueberry_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compac&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
