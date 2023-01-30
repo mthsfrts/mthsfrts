@@ -21,6 +21,9 @@ I'm your man (or woman, no judgement here).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compac&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Recent Activity
+
+<!--START_SECTION:activity-->
 
 ## Skills Stack
 <div style="display: inline_block"><br>
