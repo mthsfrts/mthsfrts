@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Matheus or Matthews(if you want), a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
+I'm a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
 Master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your man. 
 Currently working on a Master's in Software Engineering, because you can never have too many degrees, right?
 
@@ -37,4 +37,6 @@ I'm your man (or woman, no judgement here).
 
 ## Social
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthsfrts/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mthsfrts/)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mthsfrts#5274)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthsfrts/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mthsfrts/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Vw2Zk5ep5E)
