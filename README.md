@@ -47,6 +47,8 @@ I'm your man (or woman, no judgement here).
 
 ## Social
 
+[![Spotify](https://mthsfrts.vercel.app/api/spotify)](https://open.spotify.com/user/12142352411)
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthsfrts/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mthsfrts/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Vw2Zk5ep5E)
