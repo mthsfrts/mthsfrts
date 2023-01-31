@@ -5,7 +5,7 @@
 
 ## About Me.
 
-<div align="center">
+<div align="justify">
   
 I'm the **DevOps Engineer** you've been dreaming of (or having nightmares about, depending on your perspective). With 4 years of experience under my belt, I'm a master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your guy (or gal, again, no judgement here). And because you can never have too many degrees, I'm also pursuing a Master's in Software Engineering.
 
@@ -17,11 +17,12 @@ When I'm not working, I'm probably catching waves on my surfboard, shredding the
 </div>
 
 ## Here are some of my Github Stats.
-<div align="justifyr">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&langs_count=8&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mthsfrts&show_icons=true&theme=github_dark&card_width=150px&hide_border=true&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mthsfrtsanuraghazra&show_icons=true&theme=default&card_width=150px&hide_border=true&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mthsfrts&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
