@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+;This+is+Matheus+Freitas....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 I'm a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
 Master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your man. 
