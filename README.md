@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=30&lines=Yooo.+.+.+;Whatupp??+;Matheus+here!+.+.+.;Feel+free+to+.+.+.+;Fork%2C+PR%2C+or+Issue+;On+any+project+;So+lets+.+.+.;Build+.+.+.+;Code+.+.+.+;Do+it!!+;Take+Care!)](https://git.io/typing-svg)
 </div>
 
+## About Me.
+
 <div align="justify">
   
 I'm the **DevOps Engineer** you've been dreaming of (or having nightmares about, depending on your perspective). With 4 years of experience under my belt, I'm a master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your guy (or gal, again, no judgement here). And because you can never have too many degrees, I'm also pursuing a Master's in Software Engineering.
@@ -18,14 +20,13 @@ When I'm not working, I'm probably catching waves on my surfboard, shredding the
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&langs_count=8&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mthsfrts&show_icons=true&theme=github_dark&card_width=150px&hide_border=true&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mthsfrtsanuraghazra&show_icons=true&theme=default&card_width=150px&hide_border=true&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mthsfrts&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-## My Main Public Repo
+## My Main Public Repo.
 
 <div align="center">
   
@@ -35,7 +36,7 @@ When I'm not working, I'm probably catching waves on my surfboard, shredding the
 
 <!--START_SECTION:activity-->
 
-## Skills Stack
+## Skills Stack.
 <div style="display: inline_block" align="center"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
@@ -52,7 +53,7 @@ When I'm not working, I'm probably catching waves on my surfboard, shredding the
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-## Social
+## Social.
 
 <div style="display: inline_block" align="center"><br> 
   
@@ -61,4 +62,10 @@ When I'm not working, I'm probably catching waves on my surfboard, shredding the
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthsfrts/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mthsfrts/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Vw2Zk5ep5E)
+
+<!-- <a href="https://github.com/mthsfrts"><img src="assets/snake.svg"></a> -->
+
 </div>
+
+
+
