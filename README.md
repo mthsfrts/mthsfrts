@@ -4,7 +4,8 @@
 </div>
 
 <div align="justify">
-I'm the **_DevOps Engineer_** you've been dreaming of (or having nightmares about, depending on your perspective). With 4 years of experience under my belt, I'm a master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your guy (or gal, again, no judgement here). And because you can never have too many degrees, I'm also pursuing a Master's in Software Engineering.
+  
+I'm the **DevOps Engineer** you've been dreaming of (or having nightmares about, depending on your perspective). With 4 years of experience under my belt, I'm a master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your guy (or gal, again, no judgement here). And because you can never have too many degrees, I'm also pursuing a Master's in Software Engineering.
 
 When it comes to managing Linux servers and setting up SD-WAN networks, I'm the real deal. I'll keep your cybercriminals at bay with my firewall rules and traffic analysis, and I won't even break a sweat. In fact, I used to work for a secret government agency (shh!) where I helped lead teams to victory and delivered results like a boss.
 
