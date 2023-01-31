@@ -1,6 +1,6 @@
-<div align="center">
+<div align="justify">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=30&lines=Yooo.+.+.+;Whatupp??+;Matheus+here!+.+.+.;Feel+free+to+.+.+.+;Fork%2C+PR%2C+Issue%2C+or+Star;On+any+project+;So+lets+.+.+.;Build+.+.+.+;Code+.+.+.+;Do+it!!+;If+you+like+to+chat+;hit+me+up+on+social;Take+Care!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&size=42&duration=3500&pause=1500&color=FFFFFF&vCenter=true&width=900&height=45&lines=Yooo.+.+.+Whatupp??+;Matheus+here!+.+.+.;Feel+free+to+fork%2C+PR%2C+issue%2C+or+star%2C+any+project.+;So+.+.+.+lets+build%2C+lets+code%2C+lets+do+it!!+;If+you+like+to+chat+just+hit+me+up+on+social.;Take+Care!)](https://git.io/typing-svg)
 </div>
 
 ## About Me.
