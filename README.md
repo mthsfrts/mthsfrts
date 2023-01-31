@@ -17,15 +17,19 @@ So, if you're looking for someone who can make your tech dreams a reality, look 
 ## Here are some of my Github Stats.
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mthsfrts&repo=DIY.io&theme=github_dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&langs_count=8&theme=github_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=mthsfrts&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mthsfrts&show_icons=true&theme=github_dark&card_width=150px&hide_border=true&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mthsfrtsanuraghazra&show_icons=true&theme=default&card_width=150px&hide_border=true&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 </div>
+
+## My Main Public Repo
+
+<div align="center">
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mthsfrts&repo=DIY.io&theme=github_dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
 <!-- ## My Recent Activity -->
 
 <!--START_SECTION:activity-->
