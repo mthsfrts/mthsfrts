@@ -1,8 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,whatup!+👋;This+is+Matheus....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=30&lines=Yooo...Whatupp!!+;Matheus+here...;Feel+free+to+;Fork%2C+PR%2C+or+Issue.)](https://git.io/typing-svg)
+
 
 I'm a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
 Master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your man. 
@@ -18,6 +16,13 @@ So, if you're looking for someone who can make your tech dreams a reality, look 
 I'm your man (or woman, no judgement here).
 
 ## Here are some of my Github Stats.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mthsfrts&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mthsfrts&show_icons=true&theme=github_dark#gh-dark-mode-onlycard_width=445px)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mthsfrtsanuraghazra&show_icons=true&theme=default#gh-light-mode-onlycard_width=445px)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&langs_count=8&theme=github_dark&layout=compact&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
+![OverView](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mthsfrts&theme=github_dark)
   
 ## My Recent Activity
 
