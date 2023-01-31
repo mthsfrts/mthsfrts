@@ -30,7 +30,7 @@ So, if you're looking for someone who can make your tech dreams a reality, look 
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mthsfrts&repo=DIY.io&theme=github_dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+</div>
 <!-- ## My Recent Activity -->
 
 <!--START_SECTION:activity-->
