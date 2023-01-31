@@ -30,7 +30,7 @@ When I'm not working, I'm probably catching waves on my surfboard, shredding the
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mthsfrts&repo=DIY.io&theme=github_dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mthsfrts&repo=DIY.io&theme=github_dark&show_owner=true&hide_border=true)](https://github.com/mthsfrts/DIY.io)
 </div>
 <!-- ## My Recent Activity -->
 
