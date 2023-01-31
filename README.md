@@ -4,16 +4,13 @@
 </div>
 
 <div align="justify">
-  
-When it comes to technology, I'm a force to be reckoned with. With 4 years of experience as a DevOps Engineer, I know my way around networks, clouds, and infrastructure as code (IaC) like the back of my hand. I'm currently pursuing a Master's in Software Engineering because, hey, you can never have too much knowledge, right?
+  I'm the DevOps Engineer you've been dreaming of (or having nightmares about, depending on your perspective). With 4 years of experience under my belt, I'm a master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your guy (or gal, again, no judgement here). And because you can never have too many degrees, I'm also pursuing a Master's in Software Engineering.
 
-I'm a seasoned veteran when it comes to managing Linux servers, setting up bulletproof SD-WAN networks, and keeping cybercriminals at bay with my firewall rules and traffic analysis. Plus, I've got top-secret experience as an IT manager at a government agency where I led teams to victory and delivered results with a dark, sarcastic humor.
+When it comes to managing Linux servers and setting up SD-WAN networks, I'm the real deal. I'll keep your cybercriminals at bay with my firewall rules and traffic analysis, and I won't even break a sweat. In fact, I used to work for a secret government agency (shh!) where I helped lead teams to victory and delivered results like a boss.
 
-But that's not all! I'm also a Product Manager and Cloud Engineer. If it's tech-related and it needs to be done, I'm your guy (or gal, no judgment here). AWS instances? Piece of cake. Cloud computing technologies? I eat them for breakfast.
+I'm also a Product Manager and Cloud Engineer. AWS instances? Child's play. Cloud computing technologies? I'm the king (or queen) of the cloud. So, if you're looking for someone who can make your tech dreams a reality, look no further. I'm the one you've been searching for (or running away from, depending on your perspective).
 
-When I'm not saving the world from tech disasters, you can find me shredding the waves as a surfer, skating the streets, or snowboarding down mountains. And let's not forget about my passion for music. I spent 7 years working with music production before fully diving into IT, so you know I've got good taste in tunes.
-
-In short, if you need a tech ninja with a dark sense of humor and a love for extreme sports and music, I'm your man.
+When I'm not working, I'm probably catching waves on my surfboard, shredding the skatepark, or bombing down the slopes on my snowboard. And when I need a break from all the adrenaline, I love to jam out to my favorite tunes. After all, I did spend 7 years working with music production before jumping full-time into IT.
 </div>
 
 ## Here are some of my Github Stats.
