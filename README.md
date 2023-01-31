@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,whatup!+👋;This+is+Matheus....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 I'm a **_DevOps Engineer_** who's been around the block a few times (4 years to be exact). 
 Master of network, cloud, and infrastructure as code (IaC) - basically, if it's tech-related, I'm your man. 
@@ -13,17 +18,10 @@ So, if you're looking for someone who can make your tech dreams a reality, look 
 I'm your man (or woman, no judgement here).
 
 ## Here are some of my Github Stats.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=mthsfrts&count_private=true&show_icons=true&theme=github_dark&card_width=300px)    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mthsfrts&theme=blueberry_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthsfrts&layout=compac&theme=github_dark&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
-  
   
 ## My Recent Activity
 
 <!--START_SECTION:activity-->
-
-
 
 ## Skills Stack
 <div style="display: inline_block" align="center"><br>
@@ -42,11 +40,9 @@ I'm your man (or woman, no judgement here).
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-
 ## Social
 
-<div style="display: inline_block" align="center"><br>
-  
+<div style="display: inline_block" align="center"><br> 
 [![Spotify](https://novatorem-rng7ml68l-mthsfrts.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12142352411)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthsfrts/)
